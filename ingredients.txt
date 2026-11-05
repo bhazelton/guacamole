@@ -6,3 +6,4 @@ ingredients
 4. tomato
 5. jalapeño
 6. onion
+7. garlic
