@@ -3,3 +3,6 @@ ingredients
 1. avocado
 2. lime juice
 3. salt
+4. tomato
+5. jalapeño
+6. onion
